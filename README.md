@@ -1,11 +1,11 @@
 ## Hi, I'm Lydia!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Lydia Price and I am a second year, full time universtiy student at [Massey University](https://www.massey.ac.nz) in New Zealand. I am studying a Bachelor of Science, double majoring in Mathematics and Computer Science. 
+My name is Lydia Price and I am a final year, full time universtiy student at [Massey University](https://www.massey.ac.nz) in New Zealand. I am studying a Bachelor of Science, double majoring in Mathematics and Computer Science. 
 
 ---
 ## :woman_technologist: About Me:
 
-- :seedling: I'm currenlty learning Haskell, Java, and Rust
+- :seedling: I'm currenlty learning AI and Android Mobile Development
 - :books: My hobbies include reading, knitting, crochet and tramping 
 - :zap: In my free time, I enjoy learning new programming skills and languages
 - ✉️ Contact me at pricelydia776@gmail.com
